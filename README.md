@@ -4,8 +4,6 @@
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allpyjs&theme=github" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allpyjs&theme=github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allpyjs&theme=github&utcOffset=8" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=allpyjs&theme=github" />  
 </div>
 <!-- <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allpyjs&theme=vision-friendly-dark&layout=compact&langs_count=10&hide_title=true"/>
