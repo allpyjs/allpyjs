@@ -20,8 +20,6 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allpyjs&theme=github" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allpyjs&theme=github" />
   <br/><br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allpyjs&theme=radical&border=61dafb&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allpyjs&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
 </div>
 
 ## 🏆 Certifications
