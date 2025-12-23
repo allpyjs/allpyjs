@@ -1,4 +1,3 @@
-# Jordan Lee
 ### Senior Software Engineer | Python | Golang | React Expert
 
 
@@ -22,29 +21,6 @@
   <br/><br/>
 </div>
 
-## 🏆 Certifications
-
-<div align="center">
-  <a href="https://www.hackerrank.com/certificates/iframe/03d49a248e1f">
-    <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/iframe/8769bcf8abc9">
-    <img src="https://img.shields.io/badge/HackerRank-Golang-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/iframe/f8424ea30413">
-    <img src="https://img.shields.io/badge/HackerRank-React-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <!-- Add more certification badges as needed -->
-</div>
 
 
-## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jleenicole0430/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jordanlee19930130@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
